@@ -1,5 +1,5 @@
 # Treeform
-Treeform is an expressive language that is optimized for ease of learning and efficiency.
+Treeform is an expressive language that is designed for ease of learning and simplicity.
 ## Syllables
 - Syllables are basic meanings
 - Syllables cannot have 2 adjacent letters that are the same
