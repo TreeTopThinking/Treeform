@@ -9,7 +9,7 @@ Treeform is an expressive language that is optimized for ease of learning and ef
 - Syllables are basic meanings
 - Syllables cannot have 2 adjacent letters that are the same
 - New syllables should have letter combination with the most clear articulation while preserving symmetry with similar words
-- More common meanings have shorter syllables
+- More common meanings have shorter syllable lengths
 ## Words
 - Words are compound meanings with one or more syllables
 - When new words are made their syllables should be ordered in the most clear articulation way while preserving symmetry with similar words
