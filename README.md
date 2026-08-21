@@ -9,7 +9,7 @@ Treeform is an expressive language that is optimized for ease of learning and ef
 - As syllables form, similar meanings start grouping together
 - These letters do not automatically give the syllable's meaning
 - These groups only exist for symmetry and should not be used to determine a syllables meaning More common meanings have shorter syllable lengths
-- Find the main letter groups on [letter_groups.csv](Ditionary/letter_groups.csv)
+- Find the main letter groups on [letter_groups.csv](Dictionary/letter_groups.csv)
 ## Words
 - Words are compound meanings with one or more syllables
 - When new words are made their syllables should be ordered in the most clear articulation way while preserving symmetry with similar words
