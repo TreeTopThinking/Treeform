@@ -1,16 +1,16 @@
 # Treeform
 Treeform is an expressive language that is optimized for ease of learning and efficiency.
 
-## Letter Groups
+## [Letter Groups](Dictionary/letter_groups.csv)
 - As syllables form, similar meanings start grouping together
 - These letters do not automatically give the syllable's meaning
 - These groups only exist for symmetry and should not be used to determine a syllables meaning
-## Syllables
+## [Syllables](Dictionary/syllables.csv)
 - Syllables are basic meanings
 - Syllables cannot have 2 adjacent letters that are the same
 - New syllables should have letter combination with the most clear articulation while preserving symmetry with similar words
 - More common meanings have shorter syllable lengths
-## Words
+## [Words](Dictionary/words.csv)
 - Words are compound meanings with one or more syllables
 - When new words are made their syllables should be ordered in the most clear articulation way while preserving symmetry with similar words
 ## Speech
