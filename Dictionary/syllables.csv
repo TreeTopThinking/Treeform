@@ -43,9 +43,11 @@ false,goi
 time,da
 now,do
 do,nai
-happen,ny
+happen,di
 move,tu
 place,pi
+here,pen
+there (location),nep
 be (somewhere),pya
 there is/exists,eo
 be something,kq
@@ -100,6 +102,7 @@ thick,va
 tight,tiv
 heavy,yt
 light,ty
+toward,to
 kitten,aro
 cat,ora
 puppy,iro
@@ -116,12 +119,17 @@ learn,go
 sky,st
 food,fe
 eat,fey
+has/possess,ya
+with,yn
+without,ny
+from,an
+make/create,ig
+give,ui
+take,oi
 
 ,yr
 ,ry
 ,wq
-,ui
-,di
 ,wuk
 ,kuw
 ,tyu
