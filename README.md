@@ -1,5 +1,14 @@
 # Treeform
 Treeform is an expressive constructed language that is designed to be simple, efficient and easy to learn.
+## Example
+```Mom, look there is a bird in the sky and a fish in the water```  
+Here is the translation to Treefom  
+```ma, bi eo uas_lo pon si o wa_lo pon wa```  
+Here is the direct translation from Treeform to English  
+```Mom look exists feather_animal inside sky and water_animal inside water```  
+
+One details to notice are that Treeform's words are decodable. Birds are described as ```feather animal``` and fish are described as ```water animal```. A never before seen word can be decoded and at times fully understood without external explanation. Another detail to notice is that Treeform represented the same idea but more compactly and simply. English took 15 words and 60 charictars while Treeform took 10 words and 38 charictars. This is because words and syllables are designed to be shorter for more common meanings. But even after this, Treeform still has a very strong character.
+
 ## Syllables
 - Syllables are basic meanings
 - Syllables cannot have 2 adjacent letters that are the same
