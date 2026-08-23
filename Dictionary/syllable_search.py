@@ -14,7 +14,7 @@ def check_next_to(syllable):
 length = random.choice([2])
 syllable = "".join(random.choices(letters, k=length))
 
-while syllable in df["whorlform"].values or check_next_to(syllable):
+while syllable in df["treeform"].values or check_next_to(syllable):
     length = random.choice([2])
     syllable = "".join(random.choices(letters, k=length))
 
