@@ -24,6 +24,14 @@ One details to notice are that Treeform's words are decodable. Birds are describ
 - Words are compound meanings with one or more syllables
 - When new words are made their syllables should be ordered in the clearest articulation way while preserving symmetry with similar words
 - Find the words on [words.csv](Dictionary/letter_groups.csv)
+## Numbers
+- Treeform uses base ten but it has a special way of saying and writing numbers
+- First the magnutude is said if the number has 3 digits or more
+- Magnutude is said with "yo" before the number of digits is said
+- Then the number is said digit by digit
+Example: 12345
+- In Treeform (Seperascript) written "yo_so mu_mo_me_su_so"
+- In English written "twelve thousand three hundred fourty five"
 ## Speech
 - The first syllable of every word syllable is emphasized
 - Emphasizing does not necessarily make the syllable louder, instead it is usually a combination of clear articulation and a slightly longer duration
