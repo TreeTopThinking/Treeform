@@ -27,10 +27,10 @@ One details to notice are that Treeform's words are decodable. Birds are describ
 ## Numbers
 - Treeform uses base ten but it has a special way of saying and writing numbers
 - First the magnutude is said if the number has 3 digits or more
-- Magnutude is said with "yo" before the number of digits is said
-- Then the number is said digit by digit
+- Magnutude is said with "eo" before the number of digits is said
+- Then the number is said digit by digit  
 Example: 12345
-- In Treeform (Seperascript) written "yo_so mu_mo_me_su_so"
+- In Treeform (Seperascript) written "eo_so mu_mo_me_su_so"
 - In English written "twelve thousand three hundred fourty five"
 ## Speech
 - The first syllable of every word syllable is emphasized
