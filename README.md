@@ -24,7 +24,7 @@ One details to notice are that Treeform's words are decodable. Birds are describ
 - Words are compound meanings with one or more syllables
 - A semicolon is used to indicate the start of a word
 - When new words are made their syllables should be ordered in the clearest articulation way while preserving symmetry with similar words
-- Find the words on [words.csv](Dictionary/letter_groups.csv)
+- Find the words on [words.csv](Dictionary/words.csv)
 ## Numbers
 - Treeform uses base ten but it has a special way of saying and writing numbers
 - First the magnutude is said if the number has 3 digits or more
