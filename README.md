@@ -22,6 +22,7 @@ One details to notice are that Treeform's words are decodable. Birds are describ
 - Find the main letter groups on [letter_groups.csv](Dictionary/letter_groups.csv)
 ## Words
 - Words are compound meanings with one or more syllables
+- A semicolon is used to indicate the start of a word
 - When new words are made their syllables should be ordered in the clearest articulation way while preserving symmetry with similar words
 - Find the words on [words.csv](Dictionary/letter_groups.csv)
 ## Numbers
