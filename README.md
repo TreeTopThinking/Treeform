@@ -3,7 +3,7 @@ Treeform is an expressive constructed language that is designed to be simple, ef
 ## Example
 ```Mom, look there is a bird in the sky and a fish in the water```  
 Here is the translation to Treefom  
-```ma, bi eo uas_lo pon si o wa_lo pon wa```  
+```ma, bi ao uas_lo pon si o wa_lo pon wa```  
 Here is the direct translation from Treeform to English  
 ```Mom look exists feather_animal inside sky and water_animal inside water```  
 
