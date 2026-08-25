@@ -29,9 +29,9 @@ One details to notice are that Treeform's words are decodable. Birds are describ
 - First the magnutude is said if the number has 3 digits or more
 - Magnutude is said with "eo" before the number of digits is said
 - Then the number is said digit by digit
-- When many zeros appear at the end of the number, the full number can be infered by not writing/saying the zeros 
+- When many zeros appear at the end of the number, the full number can be infered by not writing/saying the zeros  
 Example: 123450
-- In Treeform (Seperascript) written "eo_se mu_mo_me_su_so"
+- In Treeform (Seperascript) written "eo_sq tq_mq_vq_gq_nq"
 - In English written "one hundred twenty three thousand four hundred fifty"
 ## Speech
 - The first syllable of every word syllable is emphasized
