@@ -27,8 +27,8 @@ One details to notice are that Treeform's words are decodable. Birds are describ
 - Find the words on [words.csv](Dictionary/words.csv)
 ## Numbers
 - Treeform uses base ten but it has a special way of saying and writing numbers
-- First the magnutude is said if the number has 3 digits or more
-- Magnutude is said with "eo" before the number of digits is said
+- First the magnitude is said if the number has 3 digits or more
+- Magnitude is said with "eo" before the number of digits is said
 - Then the number is said digit by digit
 - When many zeros appear at the end of the number, the full number can be infered by not writing/saying the zeros  
 Example: 123450
